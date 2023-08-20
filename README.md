@@ -17,7 +17,7 @@
 - ``` npm test ```
 
 ## d-money API documentation
-- https://documenter.getpostman.com/view/1844288/2s9Y5SVR8K
+- https://documenter.getpostman.com/view/27913050/2s9Y5SXRi7
 
 ## Test Report
 ![screencapture-file-D-CSE-Postman-dmoney-collection-newman-Reports-report-html-2023-08-20-23_13_04](https://github.com/Shaishab10/dmoney-api-automation-newman/assets/54171379/fe37747b-cd9c-4740-9f98-354e862ecd9d)
