@@ -23,7 +23,3 @@
 ![screencapture-file-D-CSE-Postman-dmoney-collection-newman-Reports-report-html-2023-08-20-23_13_04](https://github.com/Shaishab10/dmoney-api-automation-newman/assets/54171379/fe37747b-cd9c-4740-9f98-354e862ecd9d)
 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
